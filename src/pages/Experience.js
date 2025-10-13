@@ -9,25 +9,25 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element-education"
-          date="2010-2014"
+          date="2016-2020"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            JNTU,Hyderabad
+            NRI,Agaripally
           </h3>
-          <p>Bacheolor in Technology,Computers</p>
+          <p>Bacheolor in Technology,ECE</p>
         </VerticalTimelineElement>
 
         {/* Experience 01 */}
         <VerticalTimelineElement
           className="vertical-timeline-element-education"
-          date="June 2014 to Sep 2017"
+          date="Dec 2020 to Nov 2022"
           iconStyle={{ background: "#B87333", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Amigos Software Solutions
+            Cognizant Technology Solutions
           </h3>
           <p>Web Developer</p>
         </VerticalTimelineElement>
@@ -36,42 +36,28 @@ function Experience() {
         {/* Experience 02 */}
         <VerticalTimelineElement
           className="vertical-timeline-element-education"
-          date="Nov 2017 to July 2021"
+          date="Aug 2023 to June 2024"
           iconStyle={{ background: "#B87333  ", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            UBS,New York
+            Lowes,TX
           </h3>
-          <p>Senior UI Developer</p>
+          <p>Full Stack UI Developer </p>
         </VerticalTimelineElement>
 
-
-                {/* Experience 03 */}
-          <VerticalTimelineElement
-          className="vertical-timeline-element-education"
-          date="Sep 2021 to July 2023"
-          iconStyle={{ background: "#3cb371 ", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Simmons Bank,Pine Bluff,AR
-          </h3>
-          <p>Senior UI Developer</p>
-        </VerticalTimelineElement>
-{/* Current Experience */}
 
                {/* Current Experience */}
                <VerticalTimelineElement
           className="vertical-timeline-element-education"
-          date="July 2023 to Present"
+          date="July 2024 to Present"
           iconStyle={{ background: "#008080   ", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Cardinal Health,Remote
+          Truist,Remote
           </h3>
-          <p>Senior UI Full Stack Developer</p>
+          <p>Senior UI Developer</p>
         </VerticalTimelineElement>
 
 
